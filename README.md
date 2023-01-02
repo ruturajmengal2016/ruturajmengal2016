@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruturaj Mengal
-- 👀 I’m interested in Data science and Machine Learning
-- 🌱 I’m currently learning Artifical Intelligence
+- 👀 I’m interested in Full stack web development.
+- 🌱 I’m currently working as trainee in FunctionalUp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emial_id : ruturajmengal2016@gmail.com
 
